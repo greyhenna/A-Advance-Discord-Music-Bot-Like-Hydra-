@@ -1,12 +1,12 @@
 {
-  "token": "your_bot_token",
-  "prefix": "your_prefix",
+  "token": "ODc3MTk5NjY3MzQ2MTczOTc0.YRvJ2g.AnbLM_97gBMlG6cy0hp0Q2A79LU",
+  "prefix": "sc!",
 
   "clientsettings": {
     "nodes": [
       {
-         "host": "localhost",
-         "port": 2333,
+         "host": "lava.link",
+         "port": 80,
          "password": "youshallnotpass"
        }
      ]
@@ -41,7 +41,7 @@
   },
 
 
-  "ownerIDS": ["821095540569407508"],
+  "ownerIDS": ["759635445864202283"],
 
 
   "status": {
