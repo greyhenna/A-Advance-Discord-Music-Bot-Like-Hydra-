@@ -1,8 +1,8 @@
-server: # REST and WS server
+server: https://aug21music.herokuapp.com/
   port: 2333
   address: 0.0.0.0
 lavalink:
-  server:
+  server: lava.link
     password: "youshallnotpass"
     sources:
       youtube: true
